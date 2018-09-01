@@ -17,7 +17,10 @@
         android:layout_marginBottom="10dp"
         android:layout_marginTop="10dp"
         android:gravity="top|center"
-        android:text="Fisher Mall" />
+        android:text="Fisher Mall"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/textView5"

@@ -10,7 +10,10 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="257dp"
-        android:text="Fisher Mall" />
+        android:text="Fisher Mall"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/textView2"
