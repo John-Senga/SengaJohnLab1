@@ -28,7 +28,11 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="25dp"
         android:layout_marginTop="25dp"
-        android:text="Location: 35 Quezon Ave, Quezon City, Luzon, Philippines  " />
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Location: 35 Quezon Ave, Quezon City, Luzon, Philippines  "
+        android:textColor="#000"
+        android:textSize="18sp" />
 
     <TextView
         android:id="@+id/textView6"
@@ -36,7 +40,11 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="25dp"
         android:layout_marginTop="25dp"
-        android:text="Distance from UST: 4.1 km" />
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Distance from UST: 4.1 km"
+        android:textColor="#000"
+        android:textSize="18sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
